@@ -9,7 +9,6 @@
     { "name": "Jemmie", "gender": "female" },
     { "name": "Paul", "gender": "male" },
     { "name": "Stephen", "gender": "male" },
-    { "name": "Bold", "age": 15 },
     { "name": "Bold", "age": 15 }
   ],
   "newUser": { "name": "Bold", "age": 15 }
